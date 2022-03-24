@@ -1,3 +1,8 @@
 # yesung-rtl.github.io
-title: "github.io 블로그 시작하기"
-excerpt : "숙제 시작 !!"
+---
+layout: single
+title: "어려워"
+---
+
+# 블로그 만들기 어려워
+ㅇㄹ얼ㅇ나ㅣㄹ;
